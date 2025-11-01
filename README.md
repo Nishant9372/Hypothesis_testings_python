@@ -8,10 +8,10 @@ The project is part of my data analyst portfolio and reflects my proficiency in 
 
 ---
 
-## 📁 Project Structure
-
-
-
+## 📁 Repository Structure
+├── Sample_Dataset.csv           # HR dataset used for statistical analysis 
+├── jupyter_notebook             # Contains the hypothesis testing notebook (.ipynb) 
+├── README.md                    # Project documentation
 
 ---
 
@@ -216,6 +216,17 @@ Proportion of male employees (48%) is **not significantly greater than 50%**, in
 
 ---
 
+## 👨‍💻 About Me
+
+Hi, I'm **Nishant**, a data analyst passionate about statistical modeling, clean Python workflows, and solving real-world problems with data. This project reflects my hands-on approach to hypothesis testing and my commitment to clarity, efficiency, and reproducibility.
+
+---
+
+## 📬 Connect with Me
+
+- 📂 GitHub: [your-github-username]  
+- 💼 LinkedIn: [your-linkedin-profile]  
+- 📧 Email: [your-email-address]
 
 
 
