@@ -224,9 +224,9 @@ Hi, I'm **Nishant**, a data analyst passionate about statistical modeling, clean
 
 ## 📬 Connect with Me
 
-- 📂 GitHub: [your-github-username]  
-- 💼 LinkedIn: [your-linkedin-profile]  
-- 📧 Email: [your-email-address]
+- 📂 GitHub: [https://github.com/Nishant9372]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/nishant-karakoti-890880241/]  
+- 📧 Email:[nishantkarakoti922@gmail.com]
 
 
 
